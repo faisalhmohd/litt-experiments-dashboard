@@ -1,0 +1,49 @@
+nav {
+	background: #291D38;
+}
+
+.btn{
+    background: #8F66C4;
+}
+.btn:hover {
+    background: #AD7BED;
+}
+
+a.brand-logo {
+    padding-left: 20px;
+}
+
+.col {
+    border: 10px solid #eee;
+    margin: 0px 0px;
+    line-height: 50px;
+    font-size: 28px;
+    background-color: #eee;
+    color: black;
+
+    height: 100vh;
+}
+
+.btn-large.head {
+	width: 100%;
+	font-weight: bold;
+}
+
+.btn-large, .btn-large:hover {
+	background-color: white;
+}
+
+.toggle {
+	color: #44B8CC;
+}
+
+.monitor {
+	color: #2CCC7B;
+}
+
+.slide {
+	color: #CC3C55;
+}
+.toggle-label {
+	width: 100%;
+}
